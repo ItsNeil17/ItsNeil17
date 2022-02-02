@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Neilisop&show_icons=true&theme=discord_old_blurple)](https://github.com/Neilisop)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ItsNeil17&show_icons=true&theme=discord_old_blurple)](https://github.com/ItsNeil17)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilisop&theme=discord_old_blurple)](https://github.com/Neilisop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNeil17&theme=discord_old_blurple)](https://github.com/ItsNeil17)
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=NeilDevelopment&repo=Edith&theme=discord_old_blurple)](https://github.com/NeilDevelopment/Edith)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=NeilDevelopment&repo=BeepBoopBot&theme=discord_old_blurple)](https://github.com/NeilDevelopment/BeepBoopBot)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItsNeil&theme=discord_old_blurple)](https://github.com/Neilisop)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItsNeil&theme=discord_old_blurple)](https://github.com/ItsNeil17)
 - 🔭 I’m currently working on [Edith](https://github.com/NeilDevelopment/Edith)!
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on pretty much anything
