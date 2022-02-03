@@ -6,7 +6,13 @@
 
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=NeilDevelopment&repo=BeepBoopBot&theme=discord_old_blurple)](https://github.com/NeilDevelopment/BeepBoopBot)
 <!--START_SECTION:waka-->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItsNeil&theme=discord_old_blurple)](https://github.com/ItsNeil17)
+```text
+HTML         48 mins         ██████████▒░░░░░░░░░░░░░░   41.18 % 
+Python       30 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.38 % 
+Markdown     17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+JavaScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+CSS          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
 <!--END_SECTION:waka-->
 - 🔭 I’m currently working on [Edith](https://github.com/NeilDevelopment/Edith)!
 - 🌱 I’m currently learning Java
