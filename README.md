@@ -7,6 +7,8 @@
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=NeilDevelopment&repo=BeepBoopBot&theme=discord_old_blurple)](https://github.com/NeilDevelopment/BeepBoopBot)
 <!--START_SECTION:waka-->
 ```text
+Total: 9 hrs 59 mins
+
 Python   9 hrs 54 mins   ████████████████████████▓   99.24 % 
 JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
