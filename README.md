@@ -5,9 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       49 mins         ██████████████████████▓░░   91.14 %
-Bash         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
