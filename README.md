@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-![Discord Status](https://discord.c99.nl/widget/theme-1/702385226407608341.png)
+Just a tech enthusiast building software (with a Minecraft profile picture 😂). I mainly program with [Python](https://python.org/) and [Java](https://java.com). I'm also a system administrator, aka I manage linux system(s) for clients.
 
-- 🔭 I’m currently working on [Edith](https://github.com/NeilDevelopment/Edith) and [AxterDB](https://github.com/AxterDB)!
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on pretty much anything
-- 📫 How to reach me: Discord : ItsNeil#0001
+Feel free to email me about anything business related: outreach@itsneil.tech
+If you'd like to chat, add me on discord: @itsneil
